@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <AssemblyName>gebinde</AssemblyName>
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Gebinde.Sources\Gebinde.Sources.csproj" />
+    <ProjectReference Include="..\Gebinde.Pack\Gebinde.Pack.csproj" />
+    <ProjectReference Include="..\Gebinde.Modpack\Gebinde.Modpack.csproj" />
+    <ProjectReference Include="..\Gebinde.Server\Gebinde.Server.csproj" />
+  </ItemGroup>
+
+</Project>

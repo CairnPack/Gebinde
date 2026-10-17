@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Gebinde.Pack\Gebinde.Pack.csproj" />
+    <ProjectReference Include="..\Gebinde.Sources\Gebinde.Sources.csproj" />
+  </ItemGroup>
+
+</Project>

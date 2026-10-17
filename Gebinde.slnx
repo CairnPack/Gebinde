@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Gebinde.Sources/Gebinde.Sources.csproj" />
+    <Project Path="src/Gebinde.Pack/Gebinde.Pack.csproj" />
+    <Project Path="src/Gebinde.Modpack/Gebinde.Modpack.csproj" />
+    <Project Path="src/Gebinde.Server/Gebinde.Server.csproj" />
+    <Project Path="src/Gebinde.Cli/Gebinde.Cli.csproj" />
+  </Folder>
+</Solution>
