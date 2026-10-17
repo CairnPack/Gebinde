@@ -11,9 +11,9 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <Authors>cairnpack</Authors>
+    <Authors>CairnPack</Authors>
     <Description>A toolchain for reproducible, version-controlled Minecraft modpacks.</Description>
-    <PackageId>Cairnpack.$(MSBuildProjectName)</PackageId>
+    <PackageId>CairnPack.$(MSBuildProjectName)</PackageId>
     <PackageLicenseExpression>GPL-3.0-or-later</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/CairnPack/Gebinde</RepositoryUrl>
     <RepositoryType>git</RepositoryType>

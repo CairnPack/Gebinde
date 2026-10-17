@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## 项目
 
-**Gebinde** 是团队 cairnpack 的 Minecraft 整合包工具链（C#，GPL-3.0-or-later）：Manifest（`gebinde.toml`）、Lockfile（`gebinde.lock`）、资源来源、解析、安装、导出、服务器测试，以及 CLI `gebinde`。整合包是受版本控制、可复现的项目，实例目录**就是**项目根目录。
+**Gebinde** 是团队 CairnPack 的 Minecraft 整合包工具链（C#，GPL-3.0-or-later）：Manifest（`gebinde.toml`）、Lockfile（`gebinde.lock`）、资源来源、解析、安装、导出、服务器测试，以及 CLI `gebinde`。整合包是受版本控制、可复现的项目，实例目录**就是**项目根目录。
 
 另外两个产品：可复用的启动器核心 **Haytham Core**（`CairnPack/HaythamCore`）与桌面启动器 **Haytham Launcher**（以子模块引用本 repo）。跨产品的设计文档、ADR 与名词表目前放在 Haytham Launcher repo。
 
