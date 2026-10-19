@@ -16,7 +16,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 |---|---|---|
 | `Gebinde.Sources` | 资源来源（Modrinth、CurseForge、本地文件、git） | 无 |
 | `Gebinde.Pack` | Manifest、Lockfile、实例 | Sources |
-| `Gebinde.Modpack` | 解析、安装、导出；声明 Gebinde 需要的接口（`IContentStore`、`IServerRuntimes`），并列出 Lockfile 引用的对象 | Pack、Sources |
+| `Gebinde.Modpack` | 解析、安装（导出归 `Gebinde.Export`）；声明 Gebinde 需要的接口（`IContentStore`、`IServerRuntimes`），并列出 Lockfile 引用的对象 | Pack、Sources |
 | `Gebinde.Server` | 服务器测试 | Modpack |
 | `Gebinde.Cli` | CLI `gebinde`；组装 Gebinde 与 Haytham Core | 全部 |
 
