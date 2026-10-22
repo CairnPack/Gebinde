@@ -6,4 +6,8 @@
     <Project Path="src/Gebinde.Server/Gebinde.Server.csproj" />
     <Project Path="src/Gebinde.Cli/Gebinde.Cli.csproj" />
   </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Gebinde.Testing/Gebinde.Testing.csproj" />
+    <Project Path="tests/Gebinde.Testing.Tests/Gebinde.Testing.Tests.csproj" />
+  </Folder>
 </Solution>
